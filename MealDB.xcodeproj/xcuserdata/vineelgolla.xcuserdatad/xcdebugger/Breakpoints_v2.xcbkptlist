@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "692D25BF-E505-49FC-B794-FC4BBF28E74F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "680C7DF5-2D02-484A-948C-E36DF034B813"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealDB/Services/MealSearchService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getMealsBy(type:endPoint:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F3B58AA-5C52-4DAE-BE06-0232B60A3717"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealDB/Services/MealSearchService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getMealsBy(type:endPoint:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2441DF1F-8DF0-4C38-8E24-03C61EB3BCC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealDB/Services/MealSearchService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getMealsBy(type:endPoint:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A22316B8-DAB4-4CA1-93CC-C2BECFC5B30C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealDB/Services/MealSearchService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getMealsBy(type:endPoint:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A22316B8-DAB4-4CA1-93CC-C2BECFC5B30C - 6428a91f69843804"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealDB.MealSearchService.getMealsBy(endPoint: MealDB.EndPoint, completionHandler: (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;MealDB.Meal&gt;&gt;, MealDB.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vineelgolla/Documents/swiftuiapps/MealDB/MealDB/Services/MealSearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "660">
+               </Location>
+               <Location
+                  uuid = "A22316B8-DAB4-4CA1-93CC-C2BECFC5B30C - bc0392aaf533f5a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(Foundation.Data, __C.NSHTTPURLResponse), MealDB.NetworkError&gt;) -&gt; () in MealDB.MealSearchService.getMealsBy(endPoint: MealDB.EndPoint, completionHandler: (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;MealDB.Meal&gt;&gt;, MealDB.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vineelgolla/Documents/swiftuiapps/MealDB/MealDB/Services/MealSearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "315">
+               </Location>
+               <Location
+                  uuid = "A22316B8-DAB4-4CA1-93CC-C2BECFC5B30C - 14ceae4412ed4db6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealDB.MealSearchService.getMealsBy&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: &#x3c4;_0_0.Type, endPoint: MealDB.EndPoint, completionHandler: (Swift.Result&lt;Swift.Optional&lt;&#x3c4;_0_0&gt;, MealDB.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vineelgolla/Documents/swiftuiapps/MealDB/MealDB/Services/MealSearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "625">
+               </Location>
+               <Location
+                  uuid = "A22316B8-DAB4-4CA1-93CC-C2BECFC5B30C - 2c261733d40f1eff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;(Foundation.Data, __C.NSHTTPURLResponse), MealDB.NetworkError&gt;) -&gt; () in MealDB.MealSearchService.getMealsBy&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: &#x3c4;_0_0.Type, endPoint: MealDB.EndPoint, completionHandler: (Swift.Result&lt;Swift.Optional&lt;&#x3c4;_0_0&gt;, MealDB.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MealDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vineelgolla/Documents/swiftuiapps/MealDB/MealDB/Services/MealSearchService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "409">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D0151FC-17CE-449B-B8CA-5234891C4F81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealDB/ViewModels/MealsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getMeals()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D0151FC-17CE-449B-B8CA-5234891C4F81 - a06cfb2b52636bb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;MealDB.Meal&gt;&gt;, MealDB.NetworkError&gt;) -&gt; () in MealDB.MealsViewModel.getMeals() -&gt; ()"
+                  moduleName = "MealDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vineelgolla/Documents/swiftuiapps/MealDB/MealDB/ViewModels/MealsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "386">
+               </Location>
+               <Location
+                  uuid = "2D0151FC-17CE-449B-B8CA-5234891C4F81 - abaefda87f3bce1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;MealDB.Meal&gt;&gt;, MealDB.NetworkError&gt;) -&gt; () in MealDB.MealsViewModel.getMeals() -&gt; ()"
+                  moduleName = "MealDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vineelgolla/Documents/swiftuiapps/MealDB/MealDB/ViewModels/MealsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "556DFE93-1C8F-45CF-A9F0-D4FBEC1654BF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealDB/ViewModels/MealsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getMeals()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A51F4DAB-E856-4073-83AD-FFC1BFC63726"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealDB/Services/HttpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getPublisher(urlRequest:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A0E0A36-C875-47C1-AC14-212782EE8FC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealDB/Services/HttpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getPublisher(urlRequest:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24448C9D-DC0A-4701-BC66-BDD28D4C93A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealDBTests/MealDBTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "testMealsListViewModel_filterAndSort()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
